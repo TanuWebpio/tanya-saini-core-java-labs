@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 public class Lights {
 	public static void main(String[] args) {
-		System.out.println("Enter the light color...");
+		System.out.println("Enter the integer for light color...red = 1 , yellow = 2, green = 3");
+
 		Scanner sc = new Scanner(System.in);
-		String s = sc.next();
-		if(s.contains("red")) {
+		int s = sc.nextInt();
+		if(s == 1) {
 			System.out.println("stop");
 		}
-		else if(s.contains("yellow")) {
+		else if(s==2) {
 			System.out.println("ready");
 		}
 		else {
