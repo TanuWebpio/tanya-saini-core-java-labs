@@ -1,4 +1,4 @@
-package com.tanya.lab1.exp7;
+package com.tanya.lab1.ex7;
 
 public class IncreasingNumber {
  public static void main(String[] args) {
