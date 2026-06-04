@@ -1,4 +1,4 @@
-package com.tanya.lab1.exp6;
+package com.tanya.lab1.ex6;
 
 import java.util.Scanner;
 
