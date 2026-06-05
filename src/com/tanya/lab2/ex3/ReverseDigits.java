@@ -1,4 +1,4 @@
-package com.tanya.lab2.exp3;
+package com.tanya.lab2.ex3;
 
 import java.util.Arrays;
 import java.util.Scanner;
